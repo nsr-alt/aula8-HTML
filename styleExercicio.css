@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    background-color: silver;
+}
+
+.compania{
+    text-align: center;  
+    padding: 15px; 
+}
+
+.compania img{
+    width: 100px;
+}
+
+.propaganda img{
+    width: 650px;
+}
