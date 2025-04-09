@@ -1,0 +1,44 @@
+body{
+    background-color: blue;
+
+}
+
+.container{
+    background-color: rgb(83, 83, 83);
+
+
+    justify-content: space-evenly;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.titulo{
+
+    text-align: center;
+ 
+}
+
+.logo{
+text-align: center;
+}
+
+.topicos{
+display: flex; 
+}
+
+.resumo{
+
+    justify-content: space-between;
+    text-align: justify;
+    border: solid 3px white; 
+    width: 500px;
+    height: 450px;
+    margin: 20px;
+    margin-top: 90px;
+    padding: 30px;
+
+}
+
+.container img{
+    width: 100px;
+}
